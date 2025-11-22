@@ -109,9 +109,10 @@ flet
 4. **Credentials → Create Credentials → OAuth client ID → Desktop App**
 5. Download the JSON → rename to `credentials.json` → place next to `gdrive-flet.py`
 6. First launch opens Google login. Approve read-only scope: `https://www.googleapis.com/auth/drive.readonly`
-
-
 ---
+## How to generate Credentials.json
+[Generate Credentials.json](https://raw.githubusercontent.com/akhil-dara/GDrive-Forensics/main/assets/how-to-create-credentials-jsonfile.mp4) 
+
 ## Investigation Scenario: Data Exfiltration Case
 
 **Objective:** Investigate suspected unauthorized data sharing by employee during March 1-15, 2025.
@@ -173,3 +174,4 @@ A: Once the database is populated, you can browse/filter/export offline. Live th
 A: This repo is provided as-is for investigative workflows. Adapt as your policy allows.
 
 ---
+
