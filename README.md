@@ -1,5 +1,8 @@
-# Google Drive Forensics Suite
+<h1 align="center">Google Drive Forensics Suite</h1>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cb302c02-13b0-4d2b-8b0e-8c2d89e53ea3" width="500" height="500" />
+</p>
 **Professional evidence intelligence for Google Drive** — built for DFIR teams, internal audit, and DLP responders who need fast, read-only insight into massive Drive estates.
 
 ---
@@ -174,5 +177,6 @@ A: Once the database is populated, you can browse/filter/export offline. Live th
 A: This repo is provided as-is for investigative workflows. Adapt as your policy allows.
 
 ---
+
 
 
