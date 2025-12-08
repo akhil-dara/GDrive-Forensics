@@ -168,7 +168,7 @@ A: No. Metadata collection uses Drive API list calls. Only when you explicitly e
 A: MD5 always comes from Drive metadata. SHA1/SHA256 fields are filled when available from ingestion or verified during download.
 
 **Q: Can I cancel exports?**  
-A: Yes. The dialog has “Cancel export” (finishes current file safely) and “Run in background.”
+A: Yes. The dialog has “Cancel export” (finishes current file safely) and “Run in background".
 
 **Q: Does it work offline?**  
 A: Once the database is populated, you can browse/filter/export offline. Live thumbnail refresh and new scans need network access.
@@ -177,6 +177,7 @@ A: Once the database is populated, you can browse/filter/export offline. Live th
 A: This repo is provided as-is for investigative workflows. Adapt as your policy allows.
 
 ---
+
 
 
 
