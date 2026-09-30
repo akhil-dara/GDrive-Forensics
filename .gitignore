@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# Secrets - never commit
+credentials.json
+token.json
+
+# Evidence data and runtime artifacts
+*.db
+*.db-wal
+*.db-shm
+*.db-journal
+logs/
+exports/
+downloads/
